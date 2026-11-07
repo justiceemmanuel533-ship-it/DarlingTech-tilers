@@ -1,0 +1,6 @@
+{
+  "name": "Darlingtech Tilers",
+  "description": "Official website for Darlingtech Tilers in Zimbabwe. Premium floor & wall tiling, precision mitred finishes, custom tile visualizer, material estimator, and AI Tiling Consultant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
